@@ -23,19 +23,20 @@
 }
 .scnd{
     position: absolute;
-    top: 900px;
+    top: 800px;
     bottom:0px;
-    left: 500px;
+    left: 520px;
     height: 150px;
     color:	 #000000;
     font-size: 25px;
+    text-align: center;
     
 }
 .line{
     position: absolute;
-    top: 930px;
+    top: 830px;
     bottom:0px;
-    left: 600px;
+    left: 620px;
     height: 150px;
     color:	 #000000;
     font-size: 25px;
@@ -64,16 +65,16 @@
 .scnd1
 {
     position: absolute;
-    top:1000px;
+    top:900px;
     bottom:0px;
-    left: 480px;
+    left: 500px;
     height: 150px;
     color:grey;
     font-size: 25px;
 }
 #intro{
     position: absolute;
-    top:1100px;
+    top:1000px;
     bottom:0px;
     left: 400px;
     height: 50px;
@@ -85,7 +86,7 @@
 }
 #testi{
     position: absolute;
-    top:1100px;
+    top:1000px;
     bottom:0px;
     left: 700px;
     height: 50px;
@@ -109,9 +110,9 @@
 
 #brown {
     background-color: rgb(247, 235, 213);
-    top:1300px ;
+    top:1150px ;
     position: absolute;
-    height:45cm;
+    height:50cm;
   }
   #about{
     
@@ -834,7 +835,7 @@ h5{
 }
 .table{
   
-  top:2200px;
+  top:2250px;
   position: relative;
 font-size: 20px;
 font-family: 'Times New Roman', Times, serif;
@@ -842,7 +843,7 @@ width: 10cm;
 left: 100px;
 }
 .mapouter{
-  top:2200px;
+  top:2300px;
   position: relative;
   width: 200px;
 
@@ -857,7 +858,7 @@ left: 100px;
 }
 #office{
   position: relative;
-  top:2480px;
+  top:2500px;
   bottom:1000px;
   left: 150px;
   font-size: 25px;
@@ -893,14 +894,14 @@ left: -200px;
   font-size: 16px;
   color: green;
   position: relative;
-  top: 2320px;
+  top: 2350px;
 
 }
 .last1{
   font-size: 16px;
   color: green;
   position: relative;
-  top: 2295px;
+  top: 2325px;
   left: 120px;
   
 }
@@ -908,7 +909,7 @@ left: -200px;
   font-size: 16px;
   color: green;
   position: relative;
-  top: 2272px;
+  top: 2302px;
   left: 290px;
 
   
@@ -917,13 +918,15 @@ left: -200px;
   font-size: 16px;
   color: white;
   position: relative;
-  left: 150px;
+  /* left: 150px; */
+  text-align: center;
 }
 #patients{
   position: relative;
   font-family: 'Times New Roman', Times, serif;
   font-size: 25px;
   color: white;
+
 }
 #textslide{
   position: relative;
@@ -931,9 +934,10 @@ left: -200px;
  text-align: center;
   font-family: 'Times New Roman', Times, serif;
   color: white;
-  text-align: center;
-  left: 20px;
+  
+ left: 30px;
   top: 20px;
+  right:40px;
 }
 #textslide1{
   position: relative;
@@ -942,8 +946,9 @@ left: -200px;
   font-family: 'Times New Roman', Times, serif;
   color: white;
   text-align: center;
-  left: 20px;
-  top: 40px;
+ left: 30px;
+  top: 20px;
+  right:40px;
 }
 
 #textslide2{
@@ -953,6 +958,10 @@ left: -200px;
   font-family: 'Times New Roman', Times, serif;
   color: white;
   text-align: center;
-  left: 20px;
-  top: 40px;
+ left: 30px;
+  top: 20px;
+  right:40px;
+}
+#centr{
+  text-align: center;
 }
